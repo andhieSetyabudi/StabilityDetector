@@ -1,0 +1,20 @@
+{
+    "name": "StabilityDetector",
+    "keywords": "stability detector, stable, stable count",
+    "description": "Arduino library for detecting stability of 20 last point",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/andhieSetyabudi/StabilityDetector.git"
+    },
+    "authors":
+    {
+        "name": "Andhie Setyabudi",
+        "url": "https://github.com/andhieSetyabudi",
+        "maintainer": true
+    },
+    "version": "0.1.0",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
